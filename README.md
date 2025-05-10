@@ -11,3 +11,12 @@
 ## В Разработке
 
 на текущий момент шаблоны в разработке! Скачать, посмотреть их можно будет позже на нашем **GitBook**: https://docs.theangmarcore.ru/
+
+## Персональные сайты / Портфолио
+
+Портфолио "DesignStudio" v.1
+
+Скачать / использовать как шаблон: [https://github.com/TheAngmarCore/B.S-template1](https://github.com/TheAngmarCore/B.S-template1)
+
+Посмотреть шаблон: [https://app.netlify.com/sites/elaborate-cactus-7917f0/overview](https://elaborate-cactus-7917f0.netlify.app/)
+
